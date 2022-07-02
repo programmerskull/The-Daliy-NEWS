@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/programmerskull/The-Daliy-NEWS/static/css/main.abd64e84.css",
+    "main.js": "/programmerskull/The-Daliy-NEWS/static/js/main.0d2c4256.js",
+    "static/js/787.bfe6bff1.chunk.js": "/programmerskull/The-Daliy-NEWS/static/js/787.bfe6bff1.chunk.js",
+    "static/media/spinner.gif": "/programmerskull/The-Daliy-NEWS/static/media/spinner.ba84dcdd5b6a2c54c05b.gif",
+    "index.html": "/programmerskull/The-Daliy-NEWS/index.html",
+    "main.abd64e84.css.map": "/programmerskull/The-Daliy-NEWS/static/css/main.abd64e84.css.map",
+    "main.0d2c4256.js.map": "/programmerskull/The-Daliy-NEWS/static/js/main.0d2c4256.js.map",
+    "787.bfe6bff1.chunk.js.map": "/programmerskull/The-Daliy-NEWS/static/js/787.bfe6bff1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.0d2c4256.js"
+  ]
+}
